@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@300;400&family=Roboto&display=swap');
+@import url("components/container.css");
+@import url("components/bouton.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 19px;
+	background-color: rgb(20, 22, 22);
+}
+
+
+h1 {
+	font-family: 'Bebas Neue', cursive;
+	text-transform: capitalize;
+	font-size: 77px;
+
+}
+a {
+	text-decoration: none;
+}
+
+h2 {
+	color: white;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 35px;
+	letter-spacing: 3px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+text-decoration: none;
+color:white;
+}
+.list-inline li {
+	display: inline;
+	padding: 20px;
+}
+.list-inline i {
+	font-size: 50px;
+	color: white;
+}
+.list-inline i:hover {
+	color: #f8ea17;
+
+}
+
+}
+a {
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-size: 35px
+}
+a:hover {
+	color: #41aea9;
+}
+
+#réseaux {
+	text-align: center;
+	margin-bottom: 0px;
+
+}
